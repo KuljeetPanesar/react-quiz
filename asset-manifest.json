@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.c71f1126.js",
-    "static/media/catrin-ellis.jpg": "/static/media/catrin-ellis.0a6c4e5bde20c9249022.jpg",
-    "index.html": "/index.html",
-    "main.c71f1126.js.map": "/static/js/main.c71f1126.js.map"
+    "main.js": "/react-quiz/static/js/main.809f264b.js",
+    "static/media/catrin-ellis.jpg": "/react-quiz/static/media/catrin-ellis.0a6c4e5bde20c9249022.jpg",
+    "index.html": "/react-quiz/index.html",
+    "main.809f264b.js.map": "/react-quiz/static/js/main.809f264b.js.map"
   },
   "entrypoints": [
-    "static/js/main.c71f1126.js"
+    "static/js/main.809f264b.js"
   ]
 }
